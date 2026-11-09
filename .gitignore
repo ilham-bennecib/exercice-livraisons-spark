@@ -1,0 +1,7 @@
+events/*
+!events/.gitkeep
+resultats/*
+!resultats/.gitkeep
+notebooks/.ipynb_checkpoints/
+data/
+Commandes.rar
